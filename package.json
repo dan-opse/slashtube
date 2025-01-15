@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react-youtube": "^10.1.0"
+  },
+  "devDependencies": {
+    "@types/react-youtube": "^7.6.2"
+  }
+}
